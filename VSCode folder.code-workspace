@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\nodejs"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"files.autoSaveDelay": 1,
+		"liveServer.settings.multiRootWorkspaceName": "JS"
+	}
+}
